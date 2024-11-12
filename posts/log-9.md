@@ -1,6 +1,6 @@
 ---
 title: 'Example'
-date: '2024-01-01'
+date: '0000-00-00'
 ---
 
 This is how you write text!
